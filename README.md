@@ -1,6 +1,6 @@
 I built LunaGeek progressive web app using React, validated it with Lighthouse, and deployed to Netlify. Anyone can installed the app locally with Chrome and Safari for iOS. PWAs work offline.
 
-http://luna-geek.netlify.app
+https://luna-geek.netlify.app
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
